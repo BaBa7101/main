@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vighnesh-kt&label=Profile%20views&color=0e75b6&style=flat" alt="vighnesh-kt" /> </p>
 
-- 👨‍💻 My Portfolio [https://vighnesh-kt.netlify.app/#contact](https://vighnesh-kt.netlify.app)
+- 👨‍💻 My Portfolio [https://vighnesh-kt.netlify.app/](https://vighnesh-kt.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
